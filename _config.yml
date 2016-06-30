@@ -1,0 +1,14 @@
+layout_spectrum: 0.28822302795015275
+typography_spectrum: 0.5210295196156949
+color:
+  brandStrength: 0.18909844243898988
+  lightness: 0.3804025650024414
+  saturation: 0.693084544269368
+  rhythmicContrast: 0.14697319851256907
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: hellothere
