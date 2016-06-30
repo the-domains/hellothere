@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Hello, There]]></title>
         <description><![CDATA[Hello, There]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hellothere/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 16:59:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 16:59:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hellothere/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, Project Fi]]></title>
+            <description><![CDATA[<article><h1>Hello, Project Fi</h1><p>Project Fi is the newest wireless network put together by Google and the latest of the increasingly popular MVNO (mobile virtual network operator) cell providers. Here's why it rocks... In the US, we have the big four providers (AT&T, Verizon, Sprint, and T-Mobile). Each of those companies has some sort of "virtual" network available.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea277fed21e88012376885384858d044/noop.jpg?input=https%3A%2F%2Fhello.files.wordpress.com%2F2016%2F02%2Fproject-fi-3.jpg"></article>]]></description>
+            <link>https://hello.wordpress.com/2016/02/17/hello-project-fi/</link>
+            <guid isPermaLink="false">c6917768-0cb4-4328-ab2e-d429ad127ae7</guid>
+            <pubDate>Thu, 30 Jun 2016 16:59:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello, Withings]]></title>
             <description><![CDATA[<article><h1>Hello, Withings</h1><p>This year I've turned into a huge Withings fan. The company, based out of France, makes connected health-related devices; everything from scales that measure your body fat percentage to cameras that alert you when your indoor air pollution gets too high.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e461d57f62b49611ba0a05788d462cf6/noop?input=https%3A%2F%2Fhello.files.wordpress.com%2F2015%2F02%2Fwithings.jpeg%26h%3D667%26crop%3D1"></article>]]></description>
