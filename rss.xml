@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hello, There]]></title>
+        <description><![CDATA[Hello, There]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 30 Jun 2016 16:59:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, Withings]]></title>
+            <description><![CDATA[<article><h1>Hello, Withings</h1><p>This year I've turned into a huge Withings fan. The company, based out of France, makes connected health-related devices; everything from scales that measure your body fat percentage to cameras that alert you when your indoor air pollution gets too high.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e461d57f62b49611ba0a05788d462cf6/noop?input=https%3A%2F%2Fhello.files.wordpress.com%2F2015%2F02%2Fwithings.jpeg%26h%3D667%26crop%3D1"></article>]]></description>
+            <link>https://hello.wordpress.com/2015/02/12/hello-withings/</link>
+            <guid isPermaLink="false">1a5446d3-181b-4b22-9523-892b44b25f62</guid>
+            <pubDate>Thu, 30 Jun 2016 16:59:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
