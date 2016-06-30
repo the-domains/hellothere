@@ -4,8 +4,15 @@
         <description><![CDATA[Hello, There]]></description>
         <link>https://thegrid.ai/hellothere/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 16:59:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 17:14:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellothere/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, Kickstarter]]></title>
+            <description><![CDATA[<article><h1>Hello, Kickstarter</h1><h2>My Annual Kickstarter Reward Breakdown</h2><p>This past year I have backed 26 projects. To date, I have received 17 rewards. Let’s start from the beginning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa32b382ef623751385717ea855f91b30ab8c041.png"></article>]]></description>
+            <link>https://www.dropbox.com/s/tbl3nly5mzemr7s/Screenshot%202016-06-30%2013.08.24.png?dl=0</link>
+            <guid isPermaLink="false">cd3c0151-04ab-46ec-adbc-6d4c269365cd</guid>
+            <pubDate>Thu, 30 Jun 2016 17:14:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello, Project Fi]]></title>
             <description><![CDATA[<article><h1>Hello, Project Fi</h1><p>Project Fi is the newest wireless network put together by Google and the latest of the increasingly popular MVNO (mobile virtual network operator) cell providers. Here's why it rocks... In the US, we have the big four providers (AT&T, Verizon, Sprint, and T-Mobile). Each of those companies has some sort of "virtual" network available.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea277fed21e88012376885384858d044/noop.jpg?input=https%3A%2F%2Fhello.files.wordpress.com%2F2016%2F02%2Fproject-fi-3.jpg"></article>]]></description>
